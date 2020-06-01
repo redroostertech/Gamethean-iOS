@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>414146890277-6j8vbahjsj1g9fmk0c0v8ip7lgasgn57.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.414146890277-6j8vbahjsj1g9fmk0c0v8ip7lgasgn57</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD8UzxV9D4CLNcq31WqY0Fz_n6fsHEe-9Y</string>
+	<key>GCM_SENDER_ID</key>
+	<string>414146890277</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.rrtech.Gamethean</string>
+	<key>PROJECT_ID</key>
+	<string>gamethean-77994</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gamethean-77994.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:414146890277:ios:6880123757293ba8aa8dcc</string>
+	<key>DATABASE_URL</key>
+	<string>https://gamethean-77994.firebaseio.com</string>
+</dict>
+</plist>
